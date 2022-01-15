@@ -1,0 +1,123 @@
+App for changing DHCP <---> Static IP Address.
+
+App must be run as Administrator!!
+
+In .exe file folder must be config.txt
+
+# THIS SYMBOL REPRESENT IN CONFIG.TXT COMMENT
+
+config.txt e.g :
+
+#	CONFIG FILE FOR SETINGS DHCP OR STATIC IP ADDRESS
+#
+#----------------------------------------------------------------
+#
+#SETTINGS FOR 1. PRE-SET
+#
+#**NAME OF PRE-SET**
+Home Ip Address - 1
+#
+#*****IP ADDRESS*****
+192.168.1.5
+#
+#*******MASK*******
+255.255.255.0
+#
+#*******GATEWAY*******
+192.168.1.1
+#
+#PRIMARY DNS SERVER
+10.10.10.10
+#
+#SECODARY DNS SERVER
+8.8.8.8
+#
+#----------------------------------------------------------------
+#
+#SETTINGS FOR 2. PRE-SET
+#
+#**NAME OF PRE-SET**
+Home Ip Address - 2
+#
+#*****IP ADDRESS*****
+192.168.1.15
+#
+#*******MASK*******
+255.255.255.0
+#
+#*******GATEWAY*******
+192.168.1.1
+#
+#PRIMARY DNS SERVER
+10.10.10.10
+#
+#SECODARY DNS SERVER
+8.8.8.8
+#
+#----------------------------------------------------------------
+#
+#SETTINGS FOR 3. PRE-SET
+#
+#**NAME OF PRE-SET**
+Home Ip Address - 3
+#
+#*****IP ADDRESS*****
+192.168.1.25
+#
+#*******MASK*******
+255.255.255.0
+#
+#*******GATEWAY*******
+192.168.1.1
+#
+#PRIMARY DNS SERVER
+10.10.10.10
+#
+#SECODARY DNS SERVER
+8.8.8.8
+#
+#----------------------------------------------------------------
+#
+#SETTINGS FOR 4. PRE-SET
+#
+#**NAME OF PRE-SET**
+Home Ip Address - 4
+#
+#*****IP ADDRESS*****
+192.168.1.35
+#
+#*******MASK*******
+255.255.255.0
+#
+#*******GATEWAY*******
+192.168.1.1
+#
+#PRIMARY DNS SERVER
+10.10.10.10
+#
+#SECODARY DNS SERVER
+8.8.8.8
+#
+#----------------------------------------------------------------
+#
+#SETTINGS FOR 5. PRE-SET
+#
+#**NAME OF PRE-SET**
+Home Ip Address - 5
+#
+#*****IP ADDRESS*****
+192.168.1.45
+#
+#*******MASK*******
+255.255.255.0
+#
+#*******GATEWAY*******
+192.168.1.1
+#
+#PRIMARY DNS SERVER
+10.10.10.10
+#
+#SECODARY DNS SERVER
+8.8.8.8
+#
+#----------------------------------------------------------------
